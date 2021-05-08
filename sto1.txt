@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olla bab im ur first girl friend, yoy coool coooooool
+=======
+olla bab im ur first girl friend, 
+>>>>>>> master
